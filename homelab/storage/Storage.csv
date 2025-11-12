@@ -1,0 +1,85 @@
+﻿Brand,Product,Size,Price,Currency,Media,Unit
+WD,Red Pro NAS,2,92.99,USD,HDD,TB
+WD,Red Pro NAS,4,169.99,USD,HDD,TB
+WD,Red Pro NAS,6,219.99,USD,HDD,TB
+WD,Red Pro NAS,8,239.99,USD,HDD,TB
+WD,Red Pro NAS,10,269.99,USD,HDD,TB
+WD,Red Pro NAS,12,289.99,USD,HDD,TB
+WD,Red Pro NAS,14,309.99,USD,HDD,TB
+WD,Red Pro NAS,16,319.99,USD,HDD,TB
+WD,Red Pro NAS,18,349.99,USD,HDD,TB
+WD,Red Pro NAS,20,379.99,USD,HDD,TB
+WD,Red Pro NAS,22,419.99,USD,HDD,TB
+WD,Red Pro NAS,24,569.99,USD,HDD,TB
+WD,Gold Enterprise,1,84.99,USD,HDD,TB
+WD,Gold Enterprise,2,109.99,USD,HDD,TB
+WD,Gold Enterprise,4,169.99,USD,HDD,TB
+WD,Gold Enterprise,6,219.99,USD,HDD,TB
+WD,Gold Enterprise,8,239.99,USD,HDD,TB
+WD,Gold Enterprise,10,269.99,USD,HDD,TB
+WD,Gold Enterprise,12,299.99,USD,HDD,TB
+WD,Gold Enterprise,14,319.99,USD,HDD,TB
+WD,Gold Enterprise,16,349.99,USD,HDD,TB
+WD,Gold Enterprise,18,379.99,USD,HDD,TB
+WD,Gold Enterprise,20,419.99,USD,HDD,TB
+WD,Gold Enterprise,22,459.99,USD,HDD,TB
+WD,Gold Enterprise,24,599.99,USD,HDD,TB
+WD,Blue,1,39.99,USD,HDD,TB
+WD,Blue,2,59.99,USD,HDD,TB
+WD,Blue,3,59.99,USD,HDD,TB
+WD,Blue,4,72.99,USD,HDD,TB
+WD,Blue,6,99.99,USD,HDD,TB
+WD,Blue,8,134.99,USD,HDD,TB
+WD,Purple Pro,8,239.99,USD,HDD,TB
+WD,Purple Pro,10,249.99,USD,HDD,TB
+WD,Purple Pro,12,279.99,USD,HDD,TB
+WD,Purple Pro,14,299.99,USD,HDD,TB
+WD,Purple Pro,18,369.99,USD,HDD,TB
+WD,Purple Pro,22,599.99,USD,HDD,TB
+WD,Black,1,56.99,USD,HDD,TB
+WD,Black,2,99.99,USD,HDD,TB
+WD,Black,4,139.99,USD,HDD,TB
+WD,Black,6,149.99,USD,HDD,TB
+WD,Black,8,179.99,USD,HDD,TB
+WD,Black,10,249.99,USD,HDD,TB
+WD,Purple Surveillance,1,52.99,USD,HDD,TB
+WD,Purple Surveillance,2,68.99,USD,HDD,TB
+WD,Purple Surveillance,3,82.99,USD,HDD,TB
+WD,Purple Surveillance,4,96.99,USD,HDD,TB
+WD,Purple Surveillance,6,149.99,USD,HDD,TB
+WD,Purple Surveillance,8,214.99,USD,HDD,TB
+WD,Black Performance,1,69.99,USD,HDD,TB
+WD,Red NAS,2,62.99,USD,HDD,TB
+WD,Red NAS,3,64.99,USD,HDD,TB
+WD,Red NAS,4,89.99,USD,HDD,TB
+WD,Red NAS,6,109.99,USD,HDD,TB
+WD,Ultrastar DC,8,209.99,USD,HDD,TB
+WD,Ultrastar DC,6,194.99,USD,HDD,TB
+WD,Ultrastar DC,20,459.99,USD,HDD,TB
+WD,Ultrastar DC,22,459.99,USD,HDD,TB
+Toshiba,NAS Systems,6,224.99,USD,HDD,TB
+Toshiba,NAS Systems,8,254.99,USD,HDD,TB
+Toshiba,NAS Systems,10,294.99,USD,HDD,TB
+Toshiba,NAS Systems,12,334.99,USD,HDD,TB
+Toshiba,NAS Systems,14,288.99,USD,HDD,TB
+Toshiba,NAS Systems,16,459.99,USD,HDD,TB
+Toshiba,NAS Systems,18,338.99,USD,HDD,TB
+Toshiba,NAS Systems,22,414.99,USD,HDD,TB
+Toshiba,Performance,4,154.99,USD,HDD,TB
+Toshiba,Performance,6,178.65,USD,HDD,TB
+Toshiba,Performance,10,274.99,USD,HDD,TB
+Toshiba,Performance,12,268.99,USD,HDD,TB
+Toshiba,Performance,14,298.99,USD,HDD,TB
+Toshiba,Performance,16,324.99,USD,HDD,TB
+Toshiba,Performance,18,368.99,USD,HDD,TB
+Toshiba,Performance,20,451.99,USD,HDD,TB
+Toshiba,Performance,22,597.04,USD,HDD,TB
+Synology,Plus Series,4,99.99,USD,HDD,TB
+Synology,Plus Series,6,149.99,USD,HDD,TB
+Synology,Plus Series,8,209.99,USD,HDD,TB
+Synology,Plus Series,12,279.99,USD,HDD,TB
+Synology,Plus Series,16,319.99,USD,HDD,TB
+Synology,Enterprise Series,4,189.99,USD,HDD,TB
+Synology,Enterprise Series,8,299.99,USD,HDD,TB
+Synology,Enterprise Series,12,449.99,USD,HDD,TB
+Synology,Enterprise Series,18,649.99,USD,HDD,TB
